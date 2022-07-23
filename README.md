@@ -34,4 +34,4 @@ Mais informações sobre o jogo original nesse [vídeo informativo](https://www.
 
 Projeto desenvolvido como segunda e última nota da cadeira de Algoritmo e Estrutura de Dados I da UFCA. Seu objetivo é a avaliar a manipução de 
 ponteiros e o uso de structs e listas encadeadas (linked lists).
-Os requisitos necessários para o projeto estão no arquivo projeto.txt.
+Os requisitos necessários para o projeto estão no arquivo projeto.txt. Recomendado o uso do Code::BLocks para compilar e rodar o programa.
