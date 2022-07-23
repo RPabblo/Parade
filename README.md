@@ -1,2 +1,0 @@
-# Parade
-Jogo Parade
