@@ -17,17 +17,18 @@ Exemplo de jogada:<br>
 O Jogador joga a a carta [2 B], logo a mesa atualiza:<br>
 [NOVA CARTA] -> [2 B] -> [5 A] -> [6 B] -> [9 A] -> [3 F] -> [8 C] | Inicío do desfile | Baralho (55 cartas)<br><br>
 O jogador não pega nenhuma carta, pois  a carta [2 B] protege as cartas [5 A] e [6 B]. Das cartas restantes, nenhuma possui mesmo naipe e/ou valor igual ou menor que 2.
-O jogador compra uma carta, ficando 55 no baralho.<br><br>
+O jogador compra uma carta, ficando 55 no baralho e o passa a vezpara opróximo jogador.<br>
 
 O jogo segue a partir disso. Há 4 possibilidades para o fim do jogo:<br><br>
+<ul>
+  <li> O jogador perdeu: tem todas as cores na coleção; </li>
+  <li> O jogador fez pontos: jogou até ficar com as 4 cartas e baixar 2 na mesa; </li>
+  <li> O jogador venceu: jogou até ficar com 4 cartas e na coleção tinha zero pontos; </li>
+  <li> O jogador venceu perfeitamente: jogou até ficar com 4 cartas e na coleção tinha zero pontos e na mão tinha dois zeros. </li>
+</ul>
 
-O jogador perdeu: tem todas as cores na coleção;
-O jogador fez pontos: jogou até ficar com as 4 cartas e baixar 2 na mesa;
-O jogador venceu: jogou até ficar com 4 cartas e na coleção tinha zero pontos; 
-O jogador venceu perfeitamente: jogou até ficar com 4 cartas e na coleção tinha zero pontos e na mão tinha dois zeros. 
-
-
-Dizer a pontuação do jogador no segundo caso de fim de partida.
+O jogo original foi pensado para várias pessoas, porém o do programa foi feito para apenas uma pessoa, que jogará contra o PC.<br>
+Mais informações sobre o jogo original nesse [vídeo informativo](https://www.youtube.com/watch?v=M4rGJDqmOSU).
 
 ## Sobre o projeto
 
